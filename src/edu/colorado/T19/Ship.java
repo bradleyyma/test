@@ -3,6 +3,9 @@ package edu.colorado.T19;
 // TODO: practice good OO design
 public class Ship {
     private String name;
+
+    //T19, Pair 2 was here
+
     // TODO: create appropriate getter and setter methods
     // TODO: Understand encapsulation
     // TODO: Understand what these todo comments mean
