@@ -1,13 +1,13 @@
-package edu.colorado.T19;
+package edu.colorado.caterpillars;
 // This is the  baseclass for your ship.  Modify accordingly
 // TODO: practice good OO design
 public class Ship {
 
-    //Team T19, pair 2 was here
+    //Team caterpillars, pair 2 was here
     
     private String name;
 
-    //Team19, pair 1 is here.
+    //Team caterpillars, pair 1 is here.
 
     // TODO: create appropriate getter and setter methods
     // TODO: Understand encapsulation
